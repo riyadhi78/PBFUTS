@@ -1,5 +1,5 @@
-Nama: Muhamad haris syahroni
-NIM: 22416255201193
+Nama: Riyadhi Ahmad Fachrudiansyah
+NIM: 22416255201222
 
 Jawaban UTS
 1. Apa yang dimaksud Framework pada pengembangan aplikasi?
